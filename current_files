@@ -1,0 +1,21 @@
+total 152
+drwxr-xr-x  20 jonathan  staff    640 Nov 25 14:22 .
+drwxr-xr-x   6 jonathan  staff    192 Nov 25 14:09 ..
+-rw-r--r--   1 jonathan  staff    136 Nov 25 14:12 source.cpp
+-rw-r--r--   1 jonathan  staff   1173 Nov 25 14:17 old.o
+-rw-r--r--   1 jonathan  staff   1072 Nov 25 14:12 LICENSE
+-rw-r--r--   1 jonathan  staff    118 Nov 25 14:12 information.txt
+-rw-r--r--   1 jonathan  staff    126 Nov 25 14:16 branch_data
+-rw-r--r--   1 jonathan  staff      0 Nov 25 14:22 current_files
+-rw-r--r--   1 jonathan  staff  11912 Nov 25 14:09 PU-standard.png
+-rw-r--r--   1 jonathan  staff     34 Nov 25 14:17 1732562240.o
+-rw-r--r--   1 jonathan  staff    252 Nov 25 14:16 remote_data
+-rw-r--r--   1 jonathan  staff  11301 Nov 25 14:12 README.md
+-rw-r--r--   1 jonathan  staff     28 Nov 25 14:09 data.dat
+-rw-r--r--   1 jonathan  staff   1401 Nov 25 14:17 .gitignore
+-rw-r--r--   1 jonathan  staff     30 Nov 25 14:17 1732562240.object
+-rw-r--r--   1 jonathan  staff    170 Nov 25 14:12 reset.sh
+drwxr-xr-x  15 jonathan  staff    480 Nov 25 14:21 .git
+-rw-r--r--   1 jonathan  staff     34 Nov 25 14:17 1732562240.obj
+drwxr-xr-x   3 jonathan  staff     96 Nov 25 14:09 .vscode
+-rw-r--r--   1 jonathan  staff     58 Nov 25 14:12 source.py
